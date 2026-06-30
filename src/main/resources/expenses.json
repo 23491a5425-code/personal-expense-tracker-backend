@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "account": "Cash",
+    "amount": 500,
+    "category": "Food",
+    "date": "2026-06-27",
+    "expenseType": 0,
+    "note": "Lunch"
+  },
+  {
+    "id": 2,
+    "account": "Bank",
+    "amount": 1200,
+    "category": "Travel",
+    "date": "2026-06-26",
+    "expenseType": 1,
+    "note": "Bus ticket"
+  }
+]
