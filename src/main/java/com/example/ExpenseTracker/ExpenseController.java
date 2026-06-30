@@ -96,4 +96,9 @@ public class ExpenseController {
                 return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
     }
+
+      @GetMapping("/")
+    public String home() {
+        return "Personal Expense Tracker Backend is running!";
+    }
 }
